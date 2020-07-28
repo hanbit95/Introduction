@@ -1,0 +1,16 @@
+@import url(http://fonts.googleapis.com/earlyaccess/hanna.css);
+@import url(http://fonts.googleapis.com/earlyaccess/jejuhallasan.css);
+h1, h2, h3, h4,  .navbar-brand {
+  font-family: 'Hanna';
+  color: #E57373;
+}
+body {
+  font-family: 'Jejuhallasan';
+  background-color: #FFEBEE;
+}
+.navbar {
+  border-bottom: #8D6E63 4px solid;
+}
+footer {
+  border-top: #8D6E63 4px solid;
+}
